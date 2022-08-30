@@ -9,8 +9,8 @@ Student Developer in Republic of Korea, fan of Deft
 ![Javascript](https://img.shields.io/badge/-JavaScript-cfba30?style=for-the-badge&logo=Javascript&logoColor=fff)
 
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arewena&layout=Demo&theme=Demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arewena&layout=Demo&theme=radical)
 
-[![Arewena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arewena)](https://github.com/Arewena/github-readme-stats)
+![Arewena's GitHub stats](https://github-readme-stats.vercel.app/api?username=arewena&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosytreq)](https://solved.ac/cosytreq/)
