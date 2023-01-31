@@ -14,3 +14,5 @@ Student Developer in Republic of Korea, fan of Deft
 ![Arewena's GitHub stats](https://github-readme-stats.vercel.app/api?username=arewena&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosytreq)](https://solved.ac/cosytreq/)
+
+<a href="https://opgc.me/#/users/Arewena" target="_blank"><img src="https://api.opgc.me/githubs/users/Arewena/tag/?theme=basic" /></a>
