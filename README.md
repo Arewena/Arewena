@@ -1,18 +1,7 @@
-# Hi there 👋
+# About Me
+현 16살(만 14세) 학생으로, 
+코틀린과 웹 프로그래밍을 주 분야로 삼고 싶어하는
+'진짜' 프로그래밍을 시작한지는 얼마 안된 뉴비입니다.
+알고리즘도 다루고 있고, 학업에 치여 사느라 빠쁘지만
+그래도 열심히 노력하려 하고 있습니다..
 
-Student Developer in Republic of Korea, fan of Deft
-
-# Study to & Want to learn
-![Kotlin](https://img.shields.io/badge/-Kotlin-123?style=for-the-badge&logo=kotlin&logoColor=50bcdf)
-![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=fff)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
-![Javascript](https://img.shields.io/badge/-JavaScript-cfba30?style=for-the-badge&logo=Javascript&logoColor=fff)
-
-# Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arewena&layout=Demo&theme=radical)
-
-![Arewena's GitHub stats](https://github-readme-stats.vercel.app/api?username=arewena&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cosytreq)](https://solved.ac/cosytreq/)
-
-<a href="https://opgc.me/#/users/Arewena" target="_blank"><img src="https://api.opgc.me/githubs/users/Arewena/tag/?theme=basic" /></a>
